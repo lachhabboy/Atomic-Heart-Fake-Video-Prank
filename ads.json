@@ -1,6 +1,6 @@
 {
   "AdsManager": {
-    "AdNetwork": "applovin",
+    "AdNetwork": "vungle",
     "AdmobBanner": "ca-app-pub-2120403233975259/3193311374",
     "AdmobInterstitial": "ca-app-pub-2120403233975259/8062494674",
     "AdmobNative": "ca-app-pub-2120403233975259/1935505376",
